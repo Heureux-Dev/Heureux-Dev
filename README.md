@@ -29,6 +29,16 @@ Hello! I’m Nong Van Hieu, a full-stack developer who enjoys building practical
   <img src="https://skillicons.dev/icons?i=swift" height="60" alt="swift logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="Next.js">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="60" alt="Three.js">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React Native">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="NestJS">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="60" alt="Redis">
 
   <!-- Frameworks / Libraries -->
   <img width="12" />
@@ -53,6 +63,20 @@ Hello! I’m Nong Van Hieu, a full-stack developer who enjoys building practical
   <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="vue.js logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=materialui" height="60" alt="MaterialUI">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="60" alt="Vercel">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="GitHub Actions">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="Linux">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="Figma">
 
   <!-- Cloud / DevOps -->
   <img width="12" />
@@ -63,6 +87,10 @@ Hello! I’m Nong Van Hieu, a full-stack developer who enjoys building practical
   <img src="https://skillicons.dev/icons?i=cloudflare" height="60" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="60" alt="Nginx">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bitbucket" height="60" alt="Bitbucket">
 
   <!-- Databases -->
   <img width="12" />
@@ -71,6 +99,10 @@ Hello! I’m Nong Van Hieu, a full-stack developer who enjoys building practical
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="60" alt="Supabase">
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="Postman">
 
   <!-- Tools -->
   <img width="12" />
