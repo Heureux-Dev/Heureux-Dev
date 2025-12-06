@@ -111,6 +111,7 @@ Hello! I’m Nong Van Hieu, a full-stack developer who enjoys building practical
   <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="gitlab logo"  />
+  <img width="12" />
 </div>
 
 ###
