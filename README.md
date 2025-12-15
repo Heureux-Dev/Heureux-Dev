@@ -128,7 +128,7 @@ I also integrate AI solutions (chatbots, automation, data-driven features) and b
 ###
 
 <div align="center">
-<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=0" height="100" width="100">
+<img src="https://count.getloli.com/@Hunterdii?name=Hunterdii&theme=green&darkmode=0" height="700" width="700">
 </div>
 
 
