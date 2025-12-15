@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Akryum710">
-    <img src="https://readme-typing-svg.demolab.com?lines=I%20am%20Akryum;%20Full-Stack%20Web%20And%20App%20Developer;Ai,%20Blockchain%20Developer;3%2B%8Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=520&height=60&color=f75c7e&pause=1000" align="center" /></a>
+    <img src="https://readme-typing-svg.demolab.com?lines=I%20am%20Akryum;Full-Stack%20Web%20And%20App%20Developer;Ai,%20Blockchain%20Developer;8+ Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 # 💫 About Me:
