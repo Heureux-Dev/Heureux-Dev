@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/Akryum710">
+  <a href="https://github.com/Heureux-Dev">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20App%20Developer;AI,%20Blockchain%20Developer;ShipIt%20Engineer;8+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=500&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
