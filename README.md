@@ -1,16 +1,16 @@
 <div align="center">
     <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=Heureux-Dev&theme=metropolis&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=OwenBlake111&theme=metropolis&data=followers,repositories,stars,commits' />
     </p>    
 </div>
 
 <p align="center">
-  <a href="https://github.com/Heureux-Dev">
+  <a href="https://github.com/OwenBlake111">
     <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Web%20App%20Developer;AI,%20Blockchain%20Developer;ShipIt%20Engineer;8+Years%20of%20Learning%20Coding;Always%20Learning%20Great%20Things&font=Shantell+Sans&size=34&center=true&vCenter=true&width=550&height=60&color=f75c7e&pause=1000" align="center" /></a>
 </p>
 
 # 💫 About Me:
-Hello!, I’m Heureux Developer, an AI, Blockchain, and Full-Stack Developer with hands-on experience building modern, scalable web applications from concept to production. I work extensively with React, Next.js, TypeScript, Node.js, Express, and MongoDB, and I have strong expertise in responsive UI, accessibility, and performance optimization.
+Hello!, I’m Owen an AI, Blockchain, and Full-Stack Developer with hands-on experience building modern, scalable web applications from concept to production. I work extensively with React, Next.js, TypeScript, Node.js, Express, and MongoDB, and I have strong expertise in responsive UI, accessibility, and performance optimization.
 
 I also integrate AI solutions (chatbots, automation, data-driven features) and blockchain technologies to deliver secure and intelligent systems. I’ve worked on e-commerce platforms, AI-powered tools, dashboards, and automation projects, collaborating closely with clients to translate business goals into reliable, high-quality software. My focus is always on clean code, scalability, and building solutions that create real value.
 # 💻 Tech Stack:
